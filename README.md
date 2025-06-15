@@ -21,7 +21,7 @@ Bash
 
 node search.js
 📄 O que o script faz?
-Ao ser executado, o arquivo trabalho2.js irá:
+Ao ser executado, o arquivo search.js irá:
 
 Gerar um array (vetor) ordenado com um grande volume de dados.
 Definir um elemento para ser buscado neste array.
