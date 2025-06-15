@@ -9,7 +9,6 @@ Node.js: O projeto utiliza apenas o ambiente de execução Node.js, sem a necess
 ✅ Pré-requisitos
 Para executar este projeto, você precisa apenas ter o Node.js instalado em sua máquina.
 
-Caso não tenha, baixe e instale o Node.js aqui.
 🚀 Como Executar
 Clone este repositório ou faça o download dos arquivos para uma pasta em seu computador.
 Abra seu terminal (Prompt de Comando, PowerShell, Terminal, etc.).
